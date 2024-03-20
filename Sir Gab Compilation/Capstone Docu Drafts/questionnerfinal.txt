@@ -1,0 +1,70 @@
+1.Can you introduce yourself sir/ma’am?
+: Maari nyo po bang ipakilala ang inyong sarili sir/ma’am?
+
+2.Okay, Sir/Ma’am <name of client> Can you describe your what kind of business do you have? 
+: Ok po, Sir/Ma’am <name of client> Maaari mo bang ilarawan kung anong klaseng negosyo po ito?
+
+3. What is the problem of your business and how the impact of it?
+: Ano ang problema ng iyong negosyo at paano ito naka-epekto?
+
+4. What is the current system that your business has?
+: Ano ang current system na meron ang iyong negosyo?
+
+5. What is the advantage of your current system?
+: Ano ang advantage ng iyong current system?
+
+6. What is the disadvantages of your current system?
+: Ano ang advantage ng iyong current system?
+
+7. Who are the primary users of the system, and what are their roles?
+: Sino ang mga pangunahing gumagamit ng system, at ano ang kanilang mga tungkulin?
+
+8. For you, what kind of system should we do to solve your stated problem?
+: Para po iyo, Anong klaseng sistema po ang dapat naming gawin para solusyunan ang nasabing problema?
+
+9.Can you walk us through the processes that the system will be developing?
+: Maaari mo ba kaming gabayan sa mga prosesong bubuuin ng system?
+
+10. Do you have any recommendation or suggestion to us for the system will be developing?
+: Mayroon ka po bang anumang rekomendasyon o suggestion sa amin para sa sistema na bubuohin?
+
+
+Hi CMP Garage,We're third-year BSIT students conducting interviews for our Capstone Project 1 Thesis at your company. Thank you for accommodating us.
+
+==============================================================================
+
+Subject: Interview Questions for Capstone Project 1 Thesis
+
+Hi CMP Garage,
+
+We're third-year BSIT students conducting interviews for our Capstone Project 1 Thesis at your company. Thank you for accommodating us.
+
+Client Name:
+Position:
+
+Questions:
+
+Can you introduce yourself, sir/ma’am?
+
+Can you describe your business?
+
+What are the challenges your business faces, and how do they impact your operations?
+
+What is the current system used in your business?
+
+What are the advantages of your current system?
+
+What are the disadvantages of your current system?
+
+Who are the primary users of the system, and what are their roles?
+
+In your opinion, what type of system should we develop to address your business challenges?
+
+Could you walk us through the processes that the system will need to support?
+
+Do you have any recommendations or suggestions for the system we will be developing?
+
+Looking forward to hearing from you.
+
+Best regards,
+[Your Name]

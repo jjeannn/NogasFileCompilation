@@ -1,0 +1,86 @@
+1. Describe your business and the main objectives of this business?
+Maaari mo bang ilarawan ang inyong negosyo pati na rin  and pangunahing layunin nito?
+
+2. What  problems or challenges, you experiencing that will hope you the new system will address?
+Ano ano ang problema or pagsubok na kinakaharap, na matutugunan or mabibigyang solution ng   bagong system? 
+
+3. Who will be the primary user or manage the system? (Is there any secondary user like staff) ?
+Sino ang pangunahing gagamit or mag hahandle ng system? 
+
+4. What are you expecting, goals or outcomes that'll you hoe if we're achieve with the new system? 
+Ano ang inaasahan mo na magiging resulta, kungg sakali man na magawa ang isang bagong system? 
+
+5. Can you walk me through the current processes or workflows that the system will need to support or improve?
+Maaari mo ba kaming iguide sa pag proseso na kakailanganin ng system. kungsakali mang may     baguhin or idagdag? 
+
+6. Are there any existing system that the new system will need to include with?
+Mayroon bang existing system na kakailanganin or pwedeng isama sa bagong system?
+
+7. There any specific technical requirements or barrier that we should be aware? 
+Mayroon bang particular na hadlang na dapat nating malaman or mabigyang sulution agad? 
+
+8. What level of support and maintenance do you expecting needing after the system is implemented?
+Hanggang anong antas ang inaasahan mo na kailangan pagtapos maitupad ang isang system? 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+1. What database did you use for yung company? 
+Anong database ang ginagamit nyo sa company
+
+2. How did you manage your current system on your company? 
+Paano nyo minamanage yung gamit nyo system ngayon? 
+
+3. Do you have experience have a dataloss? If Yes what will you do? If no how do you prevent that case? 
+Nakaranas ka bang magkaroon ng dataloss? Kung Oo ano ang gagawin mo? Kung hindi paano mo ito mapipigilan
+-------------------------------------------------------------------------------------------------------------------------------------
+
+1.What are the primary products or services your company offers?
+-Ano ang pangunahing produkto o serbisyo na inaalok ng inyong kumpanya?
+
+2.What is your company's primary market?
+-Ano ang pangunahing merkado  na tinutugunan ng inyong kumpanya?
+
+3.What are the main challenges your company is facing and how do they impact your operations?
+-Ano ang mga pangunahing hamon na hinaharap ng inyong kumpanya at paano ito nakakaapekto sa inyong operasyon?
+
+4.What is the current system being used by the company for their operations?
+-Ano ang kasalukuyang sistema na ginagamit ng kumpanya para sa kanilang mga operasyon?
+
+5.How has the company's system helped improve their processes and efficiency?
+-Paano ang sistema ng kumpanya ay nakatulong sa pagpapabuti ng kanilang mga proseso at kahusayan.
+
+6.Are there any plans for the company to upgrade or enhance their current system?
+-Mayroon bang mga plano ang kumpanya para sa pag-upgrade o pagpapabuti ng kanilang kasalukuyang sistema?
+
+7.Can you provide examples of specific challenges or issues that the current system addresses?
+-Maaari ka bang magbigay ng mga halimbawa ng mga partikular na hamon o isyu na sinasagot ng kasalukuyang sistema?
+-------------------------------------------------------------------------------------------------------------------------------------
+
+1. What specific problem or need led you to pursue this project?
+     Anong tiyak na problem o pangangailangan ang nagtulak sa iyo na simulan ang proyektong ito?
+
+2. How do you envision this project contributing to your overall goals or objectives?
+    Paano mo iniisip na mag-aambag ang proyektong ito sa iyong pangkalahatang mga layunin o mga adhikain?
+
+3. Can you describe the target audience or users for the product/service we'll be developing?
+     Maari mo bang ilarawan ang target audience o mga tagagamit para sa produkto/o serbisyo na gagawin natin?
+
+4. Are there any existing solutions or competitors in the market that we should be aware of?
+    Mayroon bang mga umiiral na solusyon o mga kalaban sa merkado na dapat nating malaman?
+
+5. What are the key functionalities or features that you prioritize for the initial release of the product/service?
+    Ano ang mga pangunahing function o mga feature na prayoridad para sa unang pagpapalabas ng produkto/o serbisyo?
+
+6. Do you have any preferences regarding the technology stack or platforms to be used for development?
+    Mayroon ka bang mga paboritong teknolohiya o platform na gusto mong gamitin para sa pag-develop?
+
+7. How do you plan to measure the success or effectiveness of the project once it's completed?
+    Paano mo plano sukatin ang tagumpay o epektibong pagganap ng proyekto kapag ito ay natapos na?
+
+8. Are there any regulatory or compliance requirements that we need to consider during the development process?
+    Mayroon bang mga regulasyon o patakaran sa pagsunod sa batas na dapat nating isaalang-alang sa proseso ng pag-develop?
+
+9. What level of involvement or communication would you like to maintain throughout the project?
+     Anong antas ng pakikilahok o komunikasyon ang nais mong mapanatili sa buong proyekto?
+
+10. Is there anything else you'd like to share or emphasize about your expectations or vision for the project?
+     Mayroon bang iba pang mga bagay na nais mong ibahagi o bigyang-diin tungkol sa iyong mga asahan o pananaw para sa proyekto?
